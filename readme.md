@@ -17,3 +17,6 @@ You can see the demo of the project <a href="http://demos.justlaravel.com/integr
 ## Reference Post
 <a href="http://justlaravel.com/integrate-stripe-payment-gateway-laravel/">http://justlaravel.com/integrate-stripe-payment-gateway-laravel/
 </a>
+
+## Test Card Numbers
+<img src="https://i1.wp.com/justlaravel.com/wp-content/uploads/2016/10/Stripe00.png">
