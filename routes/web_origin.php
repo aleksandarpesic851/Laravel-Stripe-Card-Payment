@@ -16,7 +16,7 @@ Route::get ( '/', function () {
 	return view ( 'welcome' );
 } );
 Route::post ( '/', function (Request $request) {
-	\Stripe\Stripe::setApiKey ( 'sk_test_pJXoqSzUlXM8LCWD8gprTpmB00QdUEp3Hw' );
+	\Stripe\Stripe::setApiKey ( 'sk_test_yourSecretkey' );
 	try {
 		\Stripe\Charge::create ( array (
 				"amount" => 300 * 100,
